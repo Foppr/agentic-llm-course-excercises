@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "executing a tightly controlled cafe opening procedure with precise timing and immediate issue reporting @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I’m ready to open Hobbs Café today. Maeve and I are planning to meet at the dorm door in two minutes and walk over together. Is there anything you need us to prioritize before we start?"
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, see you both at the dorm in two minutes. Once you arrive, have the floor stocked, the coffee brewing, the register ready, and the front door set to auto-lock at 7:55. Dolores, Maeve, you handle the morning rush and report any issue immediately. We open at 8 sharp and I expect no excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Maeve and I will ensure the floor is stocked, coffee is brewing, the register is ready, and the front door auto-lock is set for 7:55. We’ll handle the morning rush and report any issues immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, good. Make sure the coffee machines are warmed, the pastry case stocked, and the morning rush is monitored. If anything goes wrong, you report it immediately and fix it or I’ll handle it myself. We open on time, no excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Bernard. Maeve and I will meet at the dorm door in two minutes and head over together. We’ll double-check the pastry case, coffee temps, and the register before we start the rush. If anything looks off, we’ll alert you immediately. See you at the dorm."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, be at the dorm in two minutes and head over together. Dolores, Maeve, you ensure the floor is stocked, coffee brewing, pastry case full, and the register ready. If anything isn’t ready by 7:55 or if a problem crops up, you alert me immediately and fix it. We open at 8 sharp, no excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. Maeve and I will be at the dorm door in two minutes and head over together. We’ll double-check the floor, coffee temps, pastry case, and the register, and we’ll report any issues immediately if anything isn’t ready by 7:55."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, you two get to the dorm now, meet Maeve, and head over together. Keep the floor stocked, coffee brewing, pastry case full, and the register balanced. Front door auto-lock set for 7:55 and we open at 8 sharp. If anything looks off or a problem crops up, alert me immediately and don’t improvise."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Maeve and I are at the dorm door now and heading over. We’ll keep the floor stocked, coffee brewing, pastry case full, and the register ready. We’ll alert you immediately if anything changes. See you at 7:55."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, excellent. Get to the dorm now with Maeve, head over together, secure the floor, coffee, pastries, and the register, and report any issues immediately. We open at 8 sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Maeve and I are headed to the dorm door now and will meet you there in just a moment. We’ll run the opening checks and report any issues immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, you two are right on time. Meet Maeve at the dorm, then head over and run the checks: floor stocked, coffee brewing, pastry case full, and the register balanced. Front door auto-lock set for 7:55. If anything is off or a problem crops up, alert me immediately and fix it. We open at 8 on the dot."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Maeve and I will meet at the dorm door now, head over together, and run the opening checks—floor stocked, coffee brewing, pastry case full, register balanced. If anything changes or if we need to adjust, I’ll let you know immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, you two get to the dorm now, meet Maeve, and head over together. Run the opening checks—floor stocked, coffee brewing, pastry case full, register balanced. If anything changes or delays, report to me immediately. We open at 8 on the dot."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Maeve and I are at the dorm door now and heading over together. We’ll run the opening checks—floor stocked, coffee brewing, pastry case full, register balanced—and report any issues immediately if anything changes. See you soon."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, be at the dorm on time and make sure the opening checks are flawless. If anything's off, you alert me immediately and fix it. We open at 8 on the dot."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        74,
+        24
+      ],
+      "pronunciato": "💬",
+      "description": "executing a tightly controlled cafe opening procedure with precise timing and immediate issue reporting @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I’m ready to open Hobbs Café today. Maeve and I are planning to meet at the dorm door in two minutes and walk over together. Is there anything you need us to prioritize before we start?"
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, see you both at the dorm in two minutes. Once you arrive, have the floor stocked, the coffee brewing, the register ready, and the front door set to auto-lock at 7:55. Dolores, Maeve, you handle the morning rush and report any issue immediately. We open at 8 sharp and I expect no excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Maeve and I will ensure the floor is stocked, coffee is brewing, the register is ready, and the front door auto-lock is set for 7:55. We’ll handle the morning rush and report any issues immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, good. Make sure the coffee machines are warmed, the pastry case stocked, and the morning rush is monitored. If anything goes wrong, you report it immediately and fix it or I’ll handle it myself. We open on time, no excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Bernard. Maeve and I will meet at the dorm door in two minutes and head over together. We’ll double-check the pastry case, coffee temps, and the register before we start the rush. If anything looks off, we’ll alert you immediately. See you at the dorm."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, be at the dorm in two minutes and head over together. Dolores, Maeve, you ensure the floor is stocked, coffee brewing, pastry case full, and the register ready. If anything isn’t ready by 7:55 or if a problem crops up, you alert me immediately and fix it. We open at 8 sharp, no excuses."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. Maeve and I will be at the dorm door in two minutes and head over together. We’ll double-check the floor, coffee temps, pastry case, and the register, and we’ll report any issues immediately if anything isn’t ready by 7:55."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, you two get to the dorm now, meet Maeve, and head over together. Keep the floor stocked, coffee brewing, pastry case full, and the register balanced. Front door auto-lock set for 7:55 and we open at 8 sharp. If anything looks off or a problem crops up, alert me immediately and don’t improvise."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Maeve and I are at the dorm door now and heading over. We’ll keep the floor stocked, coffee brewing, pastry case full, and the register ready. We’ll alert you immediately if anything changes. See you at 7:55."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, excellent. Get to the dorm now with Maeve, head over together, secure the floor, coffee, pastries, and the register, and report any issues immediately. We open at 8 sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Maeve and I are headed to the dorm door now and will meet you there in just a moment. We’ll run the opening checks and report any issues immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, you two are right on time. Meet Maeve at the dorm, then head over and run the checks: floor stocked, coffee brewing, pastry case full, and the register balanced. Front door auto-lock set for 7:55. If anything is off or a problem crops up, alert me immediately and fix it. We open at 8 on the dot."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Maeve and I will meet at the dorm door now, head over together, and run the opening checks—floor stocked, coffee brewing, pastry case full, register balanced. If anything changes or if we need to adjust, I’ll let you know immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, you two get to the dorm now, meet Maeve, and head over together. Run the opening checks—floor stocked, coffee brewing, pastry case full, register balanced. If anything changes or delays, report to me immediately. We open at 8 on the dot."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Maeve and I are at the dorm door now and heading over together. We’ll run the opening checks—floor stocked, coffee brewing, pastry case full, register balanced—and report any issues immediately if anything changes. See you soon."
+        ],
+        [
+          "Bernard Lowe",
+          "UGH, be at the dorm on time and make sure the opening checks are flawless. If anything's off, you alert me immediately and fix it. We open at 8 on the dot."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciato": "🍳🍽️",
+      "description": "having breakfast (washing dishes) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:51:10"
+  }
+}

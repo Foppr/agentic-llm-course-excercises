@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating strict operational checks to keep grinders zeroed, monitor inventory, and synchronize today’s specials and pacing during a 7:20 huddle with escalation for deviations @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Bernard. I pulled a fresh batch of beans, calibrated the grinders, and zeroed them within five minutes. I’m starting the service checklist now and will verify inventory and sync the POS. I’ll brief the team on today’s specials after the 7:20 huddle. If grinders aren’t zeroed or inventory dips below par, I’ll alert you immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Perfect. Dolores, confirm grinders are zeroed and the service can commence on schedule. I want you to continuously monitor the prep list against inventory and pause service immediately if anything is not zeroed or if inventory dips below par, with a direct report to me. I’ll lead the 7:20 ten-minute huddle with you looped in, and Maeve will join as needed to align today’s specials and pacing. After the huddle, provide me today’s specials, pacing notes, and any inventory adjustments. If you encounter any deviation or anomaly, escalate it to me right away and I’ll decide the course of action."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I’ll be ready for the 7:20 huddle, monitor the grinders and inventory continuously, and pause service immediately if anything isn’t zeroed or inventory dips below par. I’ll loop Maeve in as needed and relay today’s specials and pacing right after the huddle, along with any inventory adjustments. If I see any deviations, I’ll escalate to you immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Keep grinders zeroed and monitor the prep list against inventory at five-minute intervals. Pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to me. I’ll run the 7:20 ten-minute huddle with you looped in; Maeve can join as needed to align today’s specials and pacing. After the huddle, deliver today’s specials, pacing notes, and any inventory adjustments, and escalate any deviations or anomalies to me right away."
+        ],
+        [
+          "Dolores Abernathy",
+          "Copy that, Bernard. Grinders are zeroed and service can commence. I’ll run through the service checklist, verify inventory, and sync the POS, holding off only if something is off. I’ll brief the team on today’s specials after the 7:20 huddle and loop Maeve in as needed. After the huddle, I’ll deliver today’s specials, pacing notes, and any inventory adjustments. I’ll escalate immediately if grinders slip from zero or inventory dips below par."
+        ],
+        [
+          "Bernard Lowe",
+          "Copy that, Dolores. Keep grinders zeroed and run the five-minute checks on the prep list against inventory. Pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to me. I’ll lead the 7:20 ten-minute huddle with you looped in; Maeve can join if we need extra alignment on today’s specials and pacing. After the huddle, deliver today’s specials, pacing notes, and any inventory adjustments. If you detect any deviation or anomaly, escalate to me immediately and I’ll decide the course of action."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Grinders stay zeroed and I’ll continue the five-minute checks against inventory. I’ll pause service immediately if anything isn’t zeroed or inventory dips below par and report directly to you. I’m ready for the 7:20 huddle and will relay today’s specials, pacing notes, and any inventory adjustments to you (and Maeve as needed) right after."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, keep grinders zeroed and run the five-minute checks against inventory. Pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to me. We’re on for the 7:20 ten-minute huddle now with you looped in; Maeve will join as needed for today’s specials and pacing. After the huddle, deliver today’s specials, pacing notes, and any inventory adjustments. If you detect any deviation or anomaly, escalate to me immediately and I’ll decide the course of action."
+        ],
+        [
+          "Dolores Abernathy",
+          "Copy that, Bernard. Grinders stay zeroed and I’ll keep the five-minute checks on the prep list vs inventory. I’ll pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to you. I’ll be on the 7:20 ten-minute huddle with you in the loop, then deliver today’s specials, pacing notes, and any inventory adjustments. I’ll escalate any deviations to you immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, stay on grinders and five-minute inventory checks. We’re on for the 7:20 ten-minute huddle now—loop Maeve in for today’s specials and pacing if needed. After the huddle, I want a full readout: today’s specials, pacing notes, and any inventory adjustments. If anything drifts or a grinder slips from zero, escalate immediately. Maintain strict timing and keep me updated."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I’m on grinders zeroed, will run five-minute checks against inventory throughout, pause if anything drifts, and report to you directly after the 7:20 ten-minute huddle. I’ll deliver today’s specials, pacing notes, and any inventory adjustments, looping Maeve in as needed. If deviations occur, I’ll escalate immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, keep grinders zeroed and run the five-minute checks against the prep list and inventory. Pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to me. We’re on for the 7:20 ten-minute huddle now with Maeve looped in for today’s specials and pacing if needed. After the huddle, deliver today’s specials, pacing notes, and any inventory adjustments, and escalate any deviations or anomalies to me immediately for a decision."
+        ],
+        [
+          "Dolores Abernathy",
+          "Copy that, Bernard. Grinders stay zeroed and I’ll run the five-minute checks against the prep list and inventory. I’ll pause service immediately if anything drifts and report directly to you after the 7:20 huddle with today’s specials, pacing notes, and any inventory adjustments. If I detect any deviation, I’ll escalate right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Perfect. Dolores, keep grinders zeroed and run the five-minute checks against the prep list and inventory. Pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to me. We’re kicking off the 7:20 ten-minute huddle now with Maeve looped in for today’s specials and pacing. After the huddle, deliver today’s specials, pacing notes, and any inventory adjustments, and escalate any deviations or anomalies to me immediately for a decision. Stay tight on timing and keep me updated."
+        ],
+        [
+          "Dolores Abernathy",
+          "Starting the 7:20 ten-minute huddle now. I’ll loop Maeve in for today’s specials and pacing, and I’ll report back with the specials, pacing notes, and any inventory adjustments right after. Grinders stay zeroed and I’ll keep the five-minute checks running and pause service immediately if anything drifts. I’ve got you, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, kickoff the 7:20 ten-minute huddle now with Maeve in the loop as needed. After the huddle, I want a full readout: today’s specials, pacing, and any inventory adjustments. Maintain zeroed grinders, keep five-minute checks running, and escalate immediately if anything drifts. Stay tight on timing and report back directly to me with any deviations or anomalies."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating strict operational checks to keep grinders zeroed, monitor inventory, and synchronize today’s specials and pacing during a 7:20 huddle with escalation for deviations @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning, Bernard. I pulled a fresh batch of beans, calibrated the grinders, and zeroed them within five minutes. I’m starting the service checklist now and will verify inventory and sync the POS. I’ll brief the team on today’s specials after the 7:20 huddle. If grinders aren’t zeroed or inventory dips below par, I’ll alert you immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Perfect. Dolores, confirm grinders are zeroed and the service can commence on schedule. I want you to continuously monitor the prep list against inventory and pause service immediately if anything is not zeroed or if inventory dips below par, with a direct report to me. I’ll lead the 7:20 ten-minute huddle with you looped in, and Maeve will join as needed to align today’s specials and pacing. After the huddle, provide me today’s specials, pacing notes, and any inventory adjustments. If you encounter any deviation or anomaly, escalate it to me right away and I’ll decide the course of action."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I’ll be ready for the 7:20 huddle, monitor the grinders and inventory continuously, and pause service immediately if anything isn’t zeroed or inventory dips below par. I’ll loop Maeve in as needed and relay today’s specials and pacing right after the huddle, along with any inventory adjustments. If I see any deviations, I’ll escalate to you immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Keep grinders zeroed and monitor the prep list against inventory at five-minute intervals. Pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to me. I’ll run the 7:20 ten-minute huddle with you looped in; Maeve can join as needed to align today’s specials and pacing. After the huddle, deliver today’s specials, pacing notes, and any inventory adjustments, and escalate any deviations or anomalies to me right away."
+        ],
+        [
+          "Dolores Abernathy",
+          "Copy that, Bernard. Grinders are zeroed and service can commence. I’ll run through the service checklist, verify inventory, and sync the POS, holding off only if something is off. I’ll brief the team on today’s specials after the 7:20 huddle and loop Maeve in as needed. After the huddle, I’ll deliver today’s specials, pacing notes, and any inventory adjustments. I’ll escalate immediately if grinders slip from zero or inventory dips below par."
+        ],
+        [
+          "Bernard Lowe",
+          "Copy that, Dolores. Keep grinders zeroed and run the five-minute checks on the prep list against inventory. Pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to me. I’ll lead the 7:20 ten-minute huddle with you looped in; Maeve can join if we need extra alignment on today’s specials and pacing. After the huddle, deliver today’s specials, pacing notes, and any inventory adjustments. If you detect any deviation or anomaly, escalate to me immediately and I’ll decide the course of action."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. Grinders stay zeroed and I’ll continue the five-minute checks against inventory. I’ll pause service immediately if anything isn’t zeroed or inventory dips below par and report directly to you. I’m ready for the 7:20 huddle and will relay today’s specials, pacing notes, and any inventory adjustments to you (and Maeve as needed) right after."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, keep grinders zeroed and run the five-minute checks against inventory. Pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to me. We’re on for the 7:20 ten-minute huddle now with you looped in; Maeve will join as needed for today’s specials and pacing. After the huddle, deliver today’s specials, pacing notes, and any inventory adjustments. If you detect any deviation or anomaly, escalate to me immediately and I’ll decide the course of action."
+        ],
+        [
+          "Dolores Abernathy",
+          "Copy that, Bernard. Grinders stay zeroed and I’ll keep the five-minute checks on the prep list vs inventory. I’ll pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to you. I’ll be on the 7:20 ten-minute huddle with you in the loop, then deliver today’s specials, pacing notes, and any inventory adjustments. I’ll escalate any deviations to you immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, stay on grinders and five-minute inventory checks. We’re on for the 7:20 ten-minute huddle now—loop Maeve in for today’s specials and pacing if needed. After the huddle, I want a full readout: today’s specials, pacing notes, and any inventory adjustments. If anything drifts or a grinder slips from zero, escalate immediately. Maintain strict timing and keep me updated."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I’m on grinders zeroed, will run five-minute checks against inventory throughout, pause if anything drifts, and report to you directly after the 7:20 ten-minute huddle. I’ll deliver today’s specials, pacing notes, and any inventory adjustments, looping Maeve in as needed. If deviations occur, I’ll escalate immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, keep grinders zeroed and run the five-minute checks against the prep list and inventory. Pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to me. We’re on for the 7:20 ten-minute huddle now with Maeve looped in for today’s specials and pacing if needed. After the huddle, deliver today’s specials, pacing notes, and any inventory adjustments, and escalate any deviations or anomalies to me immediately for a decision."
+        ],
+        [
+          "Dolores Abernathy",
+          "Copy that, Bernard. Grinders stay zeroed and I’ll run the five-minute checks against the prep list and inventory. I’ll pause service immediately if anything drifts and report directly to you after the 7:20 huddle with today’s specials, pacing notes, and any inventory adjustments. If I detect any deviation, I’ll escalate right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Perfect. Dolores, keep grinders zeroed and run the five-minute checks against the prep list and inventory. Pause service immediately if anything isn’t zeroed or inventory dips below par, and report directly to me. We’re kicking off the 7:20 ten-minute huddle now with Maeve looped in for today’s specials and pacing. After the huddle, deliver today’s specials, pacing notes, and any inventory adjustments, and escalate any deviations or anomalies to me immediately for a decision. Stay tight on timing and keep me updated."
+        ],
+        [
+          "Dolores Abernathy",
+          "Starting the 7:20 ten-minute huddle now. I’ll loop Maeve in for today’s specials and pacing, and I’ll report back with the specials, pacing notes, and any inventory adjustments right after. Grinders stay zeroed and I’ll keep the five-minute checks running and pause service immediately if anything drifts. I’ve got you, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, kickoff the 7:20 ten-minute huddle now with Maeve in the loop as needed. After the huddle, I want a full readout: today’s specials, pacing, and any inventory adjustments. Maintain zeroed grinders, keep five-minute checks running, and escalate immediately if anything drifts. Stay tight on timing and report back directly to me with any deviations or anomalies."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🧑‍🍳",
+      "description": "serving customers at the counter (opening the counter area) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:15:40"
+  }
+}

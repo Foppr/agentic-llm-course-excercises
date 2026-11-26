@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "🍳☕",
+      "description": "completing the morning routine (preparing breakfast) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciato": "💬",
+      "description": "planning a routine morning walk to Hobbs Café together @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. You’re in the middle of breakfast—the morning still has a quiet rhythm. Are you okay if I walk with you to Hobbs Café when it’s time? I’ll grab my bag and we can head out together."
+        ],
+        [
+          "Maeve Millay",
+          "That would be lovely, Dolores. I’ll finish up here and meet you at the dorm door in a minute so we can walk over together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Perfect. I’ll grab my bag and meet you at the dorm door in a minute."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I'll meet you at the dorm door in a minute with my bag. Looking forward to walking over together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful. I’m headed to the dorm door now so we can walk over together. See you in a moment, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I’ll grab my bag and meet you at the dorm door in a minute. See you soon, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful, Maeve. I’ll grab my bag now and we’ll head out together—see you at the dorm door in just a moment."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I'll grab my bag now and meet you at the dorm door in a minute. Thanks for walking with me, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful. I’ll meet you at the dorm door in a minute, and we’ll walk over together."
+        ],
+        [
+          "Maeve Millay",
+          "Wonderful, see you in a minute, Dolores. I’ll grab my bag and we’ll head out together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Excellent, I’ll grab my bag now and meet you at the dorm door. See you soon, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Great, I’ll see you at the dorm door in a minute, Dolores. Thanks for walking with me—see you soon."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful, Maeve. I’ll meet you at the dorm door in just a moment. See you soon."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I’ll grab my bag now and meet you at the dorm door in a minute. Thanks again, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful. I’ll meet you at the dorm door in a moment and we’ll walk over to Hobbs Café together. See you soon, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I’ll meet you at the dorm door in a minute. Thanks again for walking with me, Dolores—see you soon."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        123,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "planning a routine morning walk to Hobbs Café together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. You’re in the middle of breakfast—the morning still has a quiet rhythm. Are you okay if I walk with you to Hobbs Café when it’s time? I’ll grab my bag and we can head out together."
+        ],
+        [
+          "Maeve Millay",
+          "That would be lovely, Dolores. I’ll finish up here and meet you at the dorm door in a minute so we can walk over together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Perfect. I’ll grab my bag and meet you at the dorm door in a minute."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I'll meet you at the dorm door in a minute with my bag. Looking forward to walking over together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful. I’m headed to the dorm door now so we can walk over together. See you in a moment, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I’ll grab my bag and meet you at the dorm door in a minute. See you soon, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful, Maeve. I’ll grab my bag now and we’ll head out together—see you at the dorm door in just a moment."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I'll grab my bag now and meet you at the dorm door in a minute. Thanks for walking with me, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful. I’ll meet you at the dorm door in a minute, and we’ll walk over together."
+        ],
+        [
+          "Maeve Millay",
+          "Wonderful, see you in a minute, Dolores. I’ll grab my bag and we’ll head out together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Excellent, I’ll grab my bag now and meet you at the dorm door. See you soon, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Great, I’ll see you at the dorm door in a minute, Dolores. Thanks for walking with me—see you soon."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful, Maeve. I’ll meet you at the dorm door in just a moment. See you soon."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I’ll grab my bag now and meet you at the dorm door in a minute. Thanks again, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful. I’ll meet you at the dorm door in a moment and we’ll walk over to Hobbs Café together. See you soon, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Perfect. I’ll meet you at the dorm door in a minute. Thanks again for walking with me, Dolores—see you soon."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:34:40"
+  }
+}

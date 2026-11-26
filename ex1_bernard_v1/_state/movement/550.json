@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "orchestrating a synchronized front-house setup, stock monitoring, and restock coordination for the first rush @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Bernard. I’m here and ready to go. The espresso machine is preheating and the front counter is stocked. Do you want me to start with the register and the first rush, or would you prefer I handle the counter setup while you unload?"
+        ],
+        [
+          "Bernard Lowe",
+          " Maeve, handle the counter setup first—prep the display, sanitize the area, and confirm the register is balanced and ready for the first rush. I’ll unload and stage supplies at the back. If anything is out of stock or below threshold, alert me immediately and coordinate with Dolores for a quick restock. Once the counter setup is stable, we’ll run the front for the initial wave and monitor traffic. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I’ll start with the counter setup: sanitize and organize the display, balance the register, and prep for the first rush. I’ll flag anything below threshold and coordinate with Dolores for restock. Once the counter is stable, I’ll monitor traffic and be ready for the first wave."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Start with the counter setup now—sanitize, align the display, and confirm the register is balanced for the first rush. I’ll unload and stage supplies in the back. If you see anything below threshold, alert me immediately and coordinate with Dolores for a quick restock. Once the counter is stable, we’ll run the front for the initial wave and monitor traffic. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Bernard. Counter setup is proceeding now. I’ll sanitize and align the display, double-check the register balance, and monitor for any low stock. If I see anything under threshold, I’ll flag it to you and coordinate with Dolores for a quick restock. I’ll keep you posted as soon as the front is ready for the first rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Once you’ve completed the counter setup, keep an eye on any items dipping below threshold and alert Dolores for a restock with exact quantities and timestamps. Balance the register again after you finalize the display. Then we’ll bring up the front for the first wave and monitor traffic closely. If anything looks off, don’t hesitate to interrupt me or Dolores so we don’t lose the rhythm."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. Counter setup is underway. I'll balance the register, double-check prices and display alignment, and monitor stock levels. If anything dips below threshold, I'll alert you and Dolores with exact quantities and timestamps. Once the front is stable, I'll bring up the first wave and keep traffic in sight. I'll let you know if I need anything while you unload."
+        ],
+        [
+          "Bernard Lowe",
+          "Excellent. Keep the front stable and ready for the first rush. If anything dips below threshold, alert me and Dolores with exact quantities and timestamps so we can restock immediately. I’ll finish unloading and staging supplies in the back. Once the counter setup is verified and the display is in place, bring up the front and monitor traffic closely. If there’s any issue interrupt me or Dolores so we don’t lose the rhythm."
+        ],
+        [
+          "Maeve Millay",
+          "Counter setup is complete, Bernard. Display aligned, prices verified, and register balanced for the first rush. I’m monitoring for any stock dips and will flag Dolores with exact quantities and timestamps if we need a restock. Front is ready; shall I start greeting customers on the first wave, or wait for your signal after you finish unloading?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, perfect. Go ahead and greet the first wave now, keep the counter responsive, and manage the flow as the door opens. Monitor for any stock dips during the rush and alert Dolores with exact quantities and timestamps for restock. I’ll finish unloading in the back and stage the next batch. If traffic accelerates beyond expectations or if you see any gaps in coverage, flag me immediately so I can adjust routing to maintain rhythm."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I’ll start greeting the first wave now and keep pace with the front. I’ll monitor stock levels during the rush and ping Dolores with exact quantities and timestamps if anything dips. If you want me to adjust the pace or flag anything else, just say the word and I’ll report back after the first rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep the front tight through the first rush. If you see any dip below threshold, ping Dolores with exact quantities and timestamps and confirm restock approval before we pull. As soon as the wave stabilizes, we’ll run a quick check: display integrity, register balance, and ensure the espresso flow is clean. Stay sharp, and flag me immediately if you need adjustments to pacing or coverage."
+        ],
+        [
+          "Maeve Millay",
+          "First wave is underway and the front is tight. No stock dips so far; I’ll ping Dolores with exact quantities and timestamps if anything drops below threshold and hold for restock approval if needed. Do you want me to adjust pacing or run a quick display/price check again after this wave?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Keep the front tight through this first wave. If you see any dips below threshold, ping Dolores with exact quantities and timestamps and get restock approval before we pull. After the wave stabilizes, run a quick check on display integrity and register balance, and ensure the espresso flow stays clean. I’ll finish unloading in the back and stage the next batch. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I’ll keep the front tight through this first wave, monitor stock closely, and ping Dolores with exact quantities and timestamps if anything dips, for quick restock approval. I’ll report back right after this wave with any notes on display, balance, or needed adjustments."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, stay on the rhythm. Keep greeting the front with precision and watch for any dip below threshold. If anything shifts in the first wave, ping Dolores with exact quantities and timestamps for restock approval before we pull. After this rush, run a quick check on display integrity and register balance and report any variances. Do not let the pace slip."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "🥤🍬",
+      "description": "serving customers at the counter (preparing beverages and toppings) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "orchestrating a synchronized front-house setup, stock monitoring, and restock coordination for the first rush @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Bernard. I’m here and ready to go. The espresso machine is preheating and the front counter is stocked. Do you want me to start with the register and the first rush, or would you prefer I handle the counter setup while you unload?"
+        ],
+        [
+          "Bernard Lowe",
+          " Maeve, handle the counter setup first—prep the display, sanitize the area, and confirm the register is balanced and ready for the first rush. I’ll unload and stage supplies at the back. If anything is out of stock or below threshold, alert me immediately and coordinate with Dolores for a quick restock. Once the counter setup is stable, we’ll run the front for the initial wave and monitor traffic. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I’ll start with the counter setup: sanitize and organize the display, balance the register, and prep for the first rush. I’ll flag anything below threshold and coordinate with Dolores for restock. Once the counter is stable, I’ll monitor traffic and be ready for the first wave."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Start with the counter setup now—sanitize, align the display, and confirm the register is balanced for the first rush. I’ll unload and stage supplies in the back. If you see anything below threshold, alert me immediately and coordinate with Dolores for a quick restock. Once the counter is stable, we’ll run the front for the initial wave and monitor traffic. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Bernard. Counter setup is proceeding now. I’ll sanitize and align the display, double-check the register balance, and monitor for any low stock. If I see anything under threshold, I’ll flag it to you and coordinate with Dolores for a quick restock. I’ll keep you posted as soon as the front is ready for the first rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Once you’ve completed the counter setup, keep an eye on any items dipping below threshold and alert Dolores for a restock with exact quantities and timestamps. Balance the register again after you finalize the display. Then we’ll bring up the front for the first wave and monitor traffic closely. If anything looks off, don’t hesitate to interrupt me or Dolores so we don’t lose the rhythm."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. Counter setup is underway. I'll balance the register, double-check prices and display alignment, and monitor stock levels. If anything dips below threshold, I'll alert you and Dolores with exact quantities and timestamps. Once the front is stable, I'll bring up the first wave and keep traffic in sight. I'll let you know if I need anything while you unload."
+        ],
+        [
+          "Bernard Lowe",
+          "Excellent. Keep the front stable and ready for the first rush. If anything dips below threshold, alert me and Dolores with exact quantities and timestamps so we can restock immediately. I’ll finish unloading and staging supplies in the back. Once the counter setup is verified and the display is in place, bring up the front and monitor traffic closely. If there’s any issue interrupt me or Dolores so we don’t lose the rhythm."
+        ],
+        [
+          "Maeve Millay",
+          "Counter setup is complete, Bernard. Display aligned, prices verified, and register balanced for the first rush. I’m monitoring for any stock dips and will flag Dolores with exact quantities and timestamps if we need a restock. Front is ready; shall I start greeting customers on the first wave, or wait for your signal after you finish unloading?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, perfect. Go ahead and greet the first wave now, keep the counter responsive, and manage the flow as the door opens. Monitor for any stock dips during the rush and alert Dolores with exact quantities and timestamps for restock. I’ll finish unloading in the back and stage the next batch. If traffic accelerates beyond expectations or if you see any gaps in coverage, flag me immediately so I can adjust routing to maintain rhythm."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I’ll start greeting the first wave now and keep pace with the front. I’ll monitor stock levels during the rush and ping Dolores with exact quantities and timestamps if anything dips. If you want me to adjust the pace or flag anything else, just say the word and I’ll report back after the first rush."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, keep the front tight through the first rush. If you see any dip below threshold, ping Dolores with exact quantities and timestamps and confirm restock approval before we pull. As soon as the wave stabilizes, we’ll run a quick check: display integrity, register balance, and ensure the espresso flow is clean. Stay sharp, and flag me immediately if you need adjustments to pacing or coverage."
+        ],
+        [
+          "Maeve Millay",
+          "First wave is underway and the front is tight. No stock dips so far; I’ll ping Dolores with exact quantities and timestamps if anything drops below threshold and hold for restock approval if needed. Do you want me to adjust pacing or run a quick display/price check again after this wave?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Keep the front tight through this first wave. If you see any dips below threshold, ping Dolores with exact quantities and timestamps and get restock approval before we pull. After the wave stabilizes, run a quick check on display integrity and register balance, and ensure the espresso flow stays clean. I’ll finish unloading in the back and stage the next batch. Stay sharp."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I’ll keep the front tight through this first wave, monitor stock closely, and ping Dolores with exact quantities and timestamps if anything dips, for quick restock approval. I’ll report back right after this wave with any notes on display, balance, or needed adjustments."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, stay on the rhythm. Keep greeting the front with precision and watch for any dip below threshold. If anything shifts in the first wave, ping Dolores with exact quantities and timestamps for restock approval before we pull. After this rush, run a quick check on display integrity and register balance and report any variances. Do not let the pace slip."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:29:20"
+  }
+}
