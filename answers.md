@@ -225,40 +225,212 @@ We chose v3, to see if its relatively good results generalize across models.
 
 Model A (`gpt-5-nano`) excerpt:
 
->
+        -- 07:46:10, Dialogue of 8 turns each --
+        
+        "Dolores Abernathy", (1/8)
+        "Good morning, Bernard. Maeve and I are coordinating 
+        the grinder calibration to 9.0 before opening, and I’ll 
+        flag any low stock to you as soon as we run the checks. 
+        Do you want me to run through the stock list now or wait 
+        until Maeve arrives at the counter?"
+
+        "Bernard Lowe", (1/8)
+        "UGH, Dolores, run through the stock checks now and get 
+        Maeve on the counter as soon as she arrives. Calibrate 
+        the grinder to 9.0 and flag any low stock to me 
+        immediately—no excuses, I want a clean opening."
+
+        "Dolores Abernathy", (2/8)
+        "Understood, Bernard. I’ll start the stock checks now and 
+        keep you updated if anything’s low. Maeve should be at the 
+        counter shortly; I’ll have her help run through the grinder 
+        calibration to 9.0 as soon as she’s here."
+
+        "Bernard Lowe", (2/8)
+        "UGH, Dolores, keep those checks moving and log any low stock 
+        immediately. If you spot anything off, bring it to my attention 
+        right away—no excuses. Have Maeve head to the counter and assist 
+        with the grinder calibration to 9.0 as soon as she arrives. 
+        We open clean, got it?"
+
+        "Dolores Abernathy", (3/8)
+        "Understood, Bernard. I’ll start the stock checks now and flag 
+        anything low as I go. I’ll bring Maeve to the counter for the 
+        9.0 grinder calibration as soon as she arrives, and I’ll report 
+        any issues to you immediately."
+
+        "Bernard Lowe", (3/8)
+        "UGH, Dolores, keep the checks moving and alert me immediately 
+        if any stock dips below the thresholds. Calibrate the grinder 
+        to 9.0 exactly, and have Maeve join the counter as soon as she 
+        arrives. If anything looks off, report it to me now so we can 
+        address it before opening."
+
+        (3 more...)
+
+        "Dolores Abernathy", (7/8)
+        "Understood, Bernard. I’ll keep the stock checks moving, flag 
+        any lows immediately, and coordinate with Maeve at the counter 
+        to run through the 9.0 calibration as soon as she arrives. 
+        I’ll report any discrepancies to you right away."
+
+        "Bernard Lowe", (7/8)
+        "UGH, Dolores, keep me posted on any discrepancies as they 
+        pop up and confirm when Maeve is at the counter. Then we 
+        open on time, got it?"
+
+        "Dolores Abernathy", (8/8)
+        "Understood, Bernard. I'll keep the stock checks moving and 
+        log any discrepancies the moment I see them. I’ll coordinate 
+        with Maeve at the counter for the 9.0 grinder calibration 
+        as soon as she arrives, and immediately flag anything 
+        below thresholds."
+
+        "Bernard Lowe", (8/8)
+        "UGH, Dolores, keep your eyes on the clock and don’t let 
+        any delay derail opening. If Maeve isn’t at the counter 
+        within two minutes, you move to the calibration yourself 
+        and get the line moving. I want a hard, clean opening on 
+        time—no excuses."
 
 Model B (`llama3.1:8b`) excerpt:
 
->
+        -- 08:31:01, Dialogue of 8 turns --
+        "Bernard Lowe", (1/8)
+        "UGH, what's taking you so long to get to work, Maeve? 
+        We need to get this cafe open on time!"
+        
+        "Maeve Millay", (1/8)
+        "I'm getting there, Bernard, I just need a minute to 
+        finish getting ready. I don't want to be late for our 
+        shift."
 
-Analysis:
+        "Bernard Lowe", (2/8)
+        "UGH, you'd better hurry up, we can't afford to have 
+        you slacking off on your first day back, Maeve!"
+
+        "Maeve Millay", (2/8)
+        "I'll be right there, Bernard. I just need to grab 
+        my apron and I'll be ready to start our shift."
+
+        "Bernard Lowe", (3/8)
+        "UGH, I don't pay you to dawdle, Maeve. Get your 
+        apron and let's get to work. We've got a lot to 
+        do today."
+
+        "Maeve Millay", (3/8)
+        "I'm on my way, Bernard, I just need to grab my 
+        apron and I'll be ready to start our shift."
+
+        "Bernard Lowe", (4/8)
+        "UGH, finally, you're here. Let's get to work, we've 
+        got a lot to do today. I expect you to be on your game, 
+        Maeve. No slacking off, got it?"
+
+        "Maeve Millay", (4/8)
+        "I'm here, Bernard, and I'm ready to get started. I just 
+        need to clock in and we can begin our shift."
+
+        "Bernard Lowe", (5/8)
+        "UGH, let's get to work, Maeve. I expect you to be on 
+        your best behavior today. We can't afford to have any 
+        mistakes, got it?"
+
+        "Maeve Millay", (5/8)
+        "I'll get right to it, Bernard. I just need to clock in 
+        and get started on my tasks."
+
+        "Bernard Lowe", (6/8)
+        "UGH, let's get started then, Maeve. I expect you to be 
+        on your best behavior today. We can't afford to have any 
+        mistakes, got it?"
+
+        "Maeve Millay", (6/8)
+        "I'll get right to it, Bernard. I just need to clock in 
+        and get started on my tasks."
+
+        "Bernard Lowe", (7/8)
+        "UGH, let's get started then, Maeve. I expect you to be 
+        on your best behavior today. We can't afford to have any 
+        mistakes, got it?"
+
+        "Maeve Millay", (7/8)
+        "I'm here, Bernard, and I'm ready to get started. I just 
+        need to clock in and we can begin our shift."
+
+        "Bernard Lowe", (8/8)
+        "UGH, finally, you're here. Let's get to work, Maeve. 
+        I expect you to be on your best behavior today. We can't 
+        afford to have any mistakes, got it?"
+
+        "Maeve Millay", (8/8)
+        "Yes, Bernard, I'll make sure to stay focused and get all 
+        my tasks done on time. Can I clock in now?"
+
+
+There are noticeable differences between the models in terms of tone, vocabulary and intonation. In terms of tone, model A is strict and 
+detail-oriented, refraining from praise such as "good" or "nice work" and often being direct and goal-driven 
+("no excuses", "got it?"). However, model B is properly mean and hostile, being extra direct and condescending ("what's taking you so long?",
+"I don't pay you to dawdle", "finally you're here") and making threat-like remarks ("you'd better hurry up"). 
+
+In terms of vocabulary, the dialogue of Model A is longer and more detailed, planning grinder calibration to 9.0 and running
+stock checks. Model B's dialogue is shorter, more social and less work-oriented, with Bernard mostly scolding Maeve instead 
+of making any concrete requests. Interaction styles are quite similar in both models, with both agents talking for around the same time
+each turn. It seems that the initiating agent influences the conversation a lot: for model A, Dolores starts the dialogue 
+by telling Bernard her plan, which Bernard then comments on. In model B, Bernard starts by scolding Maeve, which Maeve then
+reacts to. 
+
+Both models, however, suffer from the common phenomenon of neural text degeneration as observed by e.g. 
+Holtzmann et al. (2020), falling into repetitive loops and basically repeating themselves every new turn, either
+verbatim (for the smaller model B) or using slightly different words (for the larger model A). This phenomenon 
+is extra likely in the current simulation, because a conversation happens at exactly one simulation step of 10 seconds, meaning 
+in reality no stocks can be checked or grinders calibrated while the characters talk.
 
 
 ### 2.3 Valence comparison
 
-(Attach or paste your valence trajectory plot)
+![Valence trajectory comparison across models](valence_ex2.png)
 
 **Which model produces more emotional variance?**
 
-Your answer:
+Model A has much more emotional variance, ranging from -7 to +6 (`mean=—0.40`, `var=10.80`), compared to model B (`mean=—0.80`, `var=2.56`), 
+which has one -5 event and after that mostly 0. This would indicate that model A generates more emotionally strong events, while model B 
+produces mundane routines. However, inspection of the scratch.json daily planning shows that these results are heavily skewed by a mistake from model B, which planned Bernard's 
+wake-up time at 8:00 (sleep 480m) instead of 7:00. That is why model B Bernard only has his second event after 8:00, with in total only 11 compared to 55 for model A.
+This reduced the likelihood for Bernard to be involved in more emotional events, because he was not at work yet and unable to have
+intense chats with Dolores and Maeve, thus reducing the chances of crossing the importance counter threshold to trigger a reflection cycle. This shows the shortcomings of small LLMs involved in multi-agent simulations. Smaller models often struggle with specific, numerical 
+constraints compared to larger models.
 
 ### 2.4 JSON validation failures
 
-| | Model A | Model B |
+| | gpt-5-nano | llama3.1:8b |
 |---|---|---|
-| Total LLM calls | | |
-| Failed validations | | |
-| Failure rate | | |
+| Total LLM calls | 863 | 439 |
+| Failed validations | 6 | 15 |
+| Failure rate | 0.007 | 0.034 |
+
+Table 1: The total number of LLM calls (number of lines with either `"msg":"llm_call_start"` or ``"msg":"llm_retry"``), 
+the number of failed validations (`"msg":"llm_retry"`) until 08:30 simulation time. 
+``gpt-5-nano`` failed 6 times: 3x schedule time overflow, 3x first schedule activity mismatch. `llama3.1` failed 15 times: 
+12x non-existent object, 1x schedule time overflow, 2x SPO subject must not be None. 
 
 **What does this tell you about using different models in agent simulations?**
 
-Your answer:
+Despite having the same in-game harness, the choice of model greatly influences the number of calls and 
+their failure rate. The smaller llama model has a much higher failure rate, mostly because it hallucinates non-existent 
+objects, a common example of small models being worse at copying instructions. We also see the effect of model B's wake-up mistake, 
+which delayed most events until after 8:00, simultaneously reducing the likelihood of chats and subsequent thoughts as consequent 
+LLM calls.
 
 ### 2.5 Reflection
 
 **The architecture and personality descriptions are identical. What does it mean that behaviour differs anyway?**
 
-Your answer:
+This shows the big influence of all steps of the LLM construction and training pipeline on agentic behaviour. The differences in model size 
+influence the agent's ability to correctly implement detailed prompt instructions, e.g. proper wake-up time, and the list of valid objects to interact with. 
+It also determines variety and complexity in outputs, with the larger model displaying more concrete and involed task planning.
+Later in the pipeline, we see the big effect of instruction tuning, with the commercial GPT model seemingly being more resistant to 
+change its polite behaviour, while it seems likely that the non-commercial llama model is less hesitant to do so.
 
 ---
 
